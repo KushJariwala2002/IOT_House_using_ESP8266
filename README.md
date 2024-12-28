@@ -51,8 +51,8 @@ This project allows you to control and monitor various smart devices in your hom
 
 2. Update the Wi-Fi credentials:
     ```cpp
-    const char* ssid = "YourSSID";
-    const char* password = "YourPassword";
+    const char* ssid = "YourSSID";  // Replace with your Wi-Fi SSID
+    const char* password = "YourPassword";   // Replace with your Wi-Fi password
     ```
 
 3. Upload the code to your **ESP8266** board using the Arduino IDE.
