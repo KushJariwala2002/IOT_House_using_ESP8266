@@ -100,3 +100,4 @@ Once the ESP8266 is connected to your Wi-Fi, access the IoT Dashboard using the 
 ## Conclusion
 
 This project is a basic smart home automation system that integrates multiple sensors and actuators with the ESP8266. You can control and monitor your home environment from a simple web interface.
+
